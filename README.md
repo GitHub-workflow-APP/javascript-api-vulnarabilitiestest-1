@@ -13,7 +13,7 @@ Dynamic Findings
   
 SCA Findings  
 <img src="https://github.com/veracode/verademo-javascript-api/blob/main/pictures/sca_findings.png" width="800" />  
-  
+  s
 ## How to build and run  
 Simply clone this repo and run   ss
 ``npm install``   
